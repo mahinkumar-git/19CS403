@@ -82,8 +82,9 @@ public class Main {
 
 
 ## OUTPUT:
-![java34](https://github.com/ABINAYA-27-76/19AI307_ODD-25-26-/blob/564ba08ef73efc7e73a0883948f623cfa5b0ee65/19AI307_JAVA(25-26)/Module-03/DAY-4/java34.png)
+<img width="488" height="370" alt="image" src="https://github.com/user-attachments/assets/5b6fa22c-d702-4b72-9cc8-865921e087e7" />
 
 
 ## RESULT:
 Thus, the Java program demonstrating Interface implementation using different judging criteria was executed successfully.
+
