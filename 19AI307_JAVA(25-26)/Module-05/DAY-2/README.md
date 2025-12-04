@@ -21,8 +21,8 @@ To demonstrate string compression and decompression using ByteArrayOutputStream,
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: Ganesh K
-Register Number: 212222060057
+Developed by: Mahinkumar T.
+RegisterNumber: 212222040094
 */
 ```
 
@@ -81,5 +81,6 @@ public class GZIPMemoryExample {
 
 ## RESULT:
 The program successfully compresses and decompresses a string in memory using GZIP streams, showing reduced data size and restoring the original text accurately.
+
 
 
